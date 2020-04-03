@@ -1,4 +1,4 @@
-/ 单if语句
+// 单if语句
 public class Demo02If {
 	public static void main(String[] args) {
 		System.out.println("今天天气不错，正在压马路……突然发现一个快乐的地方：网吧");
