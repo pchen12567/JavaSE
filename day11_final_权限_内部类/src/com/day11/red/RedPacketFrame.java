@@ -20,7 +20,7 @@ public abstract class RedPacketFrame extends JFrame {
 
     private static final long serialVersionUID = 1L;
 
-    private static final String DIR = "day11_fina_权限_内部类/pic";
+    private static final String DIR = "day11_final_权限_内部类/pic";
 
     private ArrayList<Integer> moneyList = null;
 
