@@ -1,4 +1,4 @@
-package com.day12.demo02;
+package com.day12.demo02Date;
 
 /*
     java.util.Date:表示日期和时间的类

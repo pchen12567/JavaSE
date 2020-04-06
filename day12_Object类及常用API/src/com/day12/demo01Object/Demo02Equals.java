@@ -1,4 +1,4 @@
-package com.day12.demo01;
+package com.day12.demo01Object;
 
 import java.util.Random;
 
